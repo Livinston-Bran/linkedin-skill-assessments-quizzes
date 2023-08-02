@@ -1,7 +1,6 @@
 ## Linkedin Skill assessments - Answers
 
 <a id="top-page"></a>
-[![Owner](https://img.shields.io/badge/owner-LivinstonBran-blue)](https://github.com/Livinston-Bran)
 
 > ⚠️ DISCLAIMER: The owners of this repository are not liable for any illegal usage of the content provided in this repository. The content is provided for informational and educational purposes only, and any actions taken by users of this repository are the responsibility of the user. By accessing this repository, you agree to hold the owners harmless from any claims, damages, or expenses arising from the use of the information provided.
 
