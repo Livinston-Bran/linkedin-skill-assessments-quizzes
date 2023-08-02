@@ -13,7 +13,7 @@ That would help anyone to better learn new concepts!
 
 #### 🎉 Announcements
 
-1. Column `Translation` have links to quizzes in different languages like Es, Fr, It and De.
+1. Column `Translation` have links to quizzes in English language.
 2. Playground before taking quiz using:
 
 - [MD2Practice (Web App)](https://linkedin-faq.github.io/md2practice/)
