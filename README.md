@@ -14,8 +14,7 @@ That would help anyone to better learn new concepts!
 #### 🎉 Announcements
 
 1. Column `Translation` have links to quizzes in different languages like Es, Fr, It and De.
-2. If you want to meet each other or discuss quiz related problems or maybe ask for skills endorsement just join the `Discord` chat.
-3. Playground before taking quiz using:
+2. Playground before taking quiz using:
 
 - [MD2Practice (Web App)](https://linkedin-faq.github.io/md2practice/)
 - [Skill Assessments Quizzes (Web App)](https://linkedin-faq.github.io/skill-assessments-quizzes/)
@@ -25,10 +24,7 @@ Want to contribute? [Here](https://github.com/linkedin-faq) is the source code.
 
 ## ❓ Need help?
 
-- [Open new issue](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/issues/new/choose)
-
-
-## 🔥 Open in VS Code view [here](https://github1s.com/Ebazhanov/linkedin-skill-assessments-quizzes/blob/HEAD/adobe-photoshop/adobe-photoshop-quiz.md) or [there](https://github.dev/Ebazhanov/linkedin-skill-assessments-quizzes/)
+- [Open new issue](https://github.com/Livinston-Bran/linkedin-skill-assessments-quizzes/issues/new/choose)
 
 ### Table of Contents
 
